@@ -11,6 +11,14 @@ Question 5:-
 Question 6:-
 ![image](https://user-images.githubusercontent.com/78419983/186221563-312fa53c-962f-4506-8f1f-b3af80c7bb95.png)
 Question 7:-
+![image](https://user-images.githubusercontent.com/78419983/186225557-b3196c70-e732-4039-9986-99205e29f2c6.png)
 Question 8:-
+![image](https://user-images.githubusercontent.com/78419983/186226492-834fe0a7-ab99-4905-bd7c-fb286fd40ed2.png)
+Question 9:-
+![image](https://user-images.githubusercontent.com/78419983/186226564-37d9efea-14d0-4902-a4fa-c928d5ee4b1f.png)
+Question 10:-
+![image](https://user-images.githubusercontent.com/78419983/186226692-a4f7116e-ce2a-4fca-a2b2-4996c587a118.png)
+Question 11:-
+![image](https://user-images.githubusercontent.com/78419983/186226779-18b259a7-4647-49a2-8b34-40c93254ac86.png)
 
 
