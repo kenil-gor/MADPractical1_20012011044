@@ -20,5 +20,23 @@ Question-10 : Write Different types of Class & Constructor. Create a class Car a
 ![image](https://user-images.githubusercontent.com/78419983/186226692-a4f7116e-ce2a-4fca-a2b2-4996c587a118.png)
 Question-11 : Write about Operator Overloading. Perform Matrix Addition, Subtraction & Multiplication using Class & operator overloading. Overload toString() function in Matrix class.
 ![image](https://user-images.githubusercontent.com/78419983/186226779-18b259a7-4647-49a2-8b34-40c93254ac86.png)
+Exercise-1 : Swap Value of two variables without using third variable and with using third variable.
+![image](https://user-images.githubusercontent.com/78419983/187110656-0839984d-a140-4159-a144-a4e58a572d8e.png)
+Exercise-2 : Create two class named as Product and Laptop. Inherit with this information: Product class should be parent and child class should be Laptop class. 
+Add Product Name, Quantity, Amount per Quantity in Product class. In Laptop class add CPU name, RAM size, HDD Size, etc. of Laptop configuration. 
+Create primary and secondary Constructor of both class. 
+If Primary constructor is there then can we create secondary constructor in inheritance? 
+If we can create secondary and primary constructor both in child class then what is restriction if parent have more than two different secondary constructor? 
+Create List of 5 laptops in ArrayList and display all objects information.
+![image](https://user-images.githubusercontent.com/78419983/187111196-49aa4825-39bc-49c6-9e76-2764b2c9eccd.png)
+![image](https://user-images.githubusercontent.com/78419983/187111242-ac105cd8-cced-49b9-a660-6becbd9e458e.png)
+Exercise-3 : Create two class named as Person and Student. Inherit with this information: Person class should be parent and child class should be Student class. 
+Add first name, last name, age in Person class. In Laptop class add enrollment no, branch, class, lab batch, etc. 
+Create primary and secondary Constructor of both class. 
+Create List of 5 students in ArrayList and display all objects information.
+![image](https://user-images.githubusercontent.com/78419983/187111925-b606618b-b014-4d75-90fa-3ed319023f6f.png)
+![image](https://user-images.githubusercontent.com/78419983/187111924-b0a3a411-678c-4095-8c1a-0eddf8c7c473.png)
+
+
 
 
