@@ -30,6 +30,7 @@ If we can create secondary and primary constructor both in child class then what
 Create List of 5 laptops in ArrayList and display all objects information.
 ![image](https://user-images.githubusercontent.com/78419983/187111196-49aa4825-39bc-49c6-9e76-2764b2c9eccd.png)
 ![image](https://user-images.githubusercontent.com/78419983/187111242-ac105cd8-cced-49b9-a660-6becbd9e458e.png)
+
 Exercise-3 : Create two class named as Person and Student. Inherit with this information: Person class should be parent and child class should be Student class. 
 Add first name, last name, age in Person class. In Laptop class add enrollment no, branch, class, lab batch, etc. 
 Create primary and secondary Constructor of both class. 
